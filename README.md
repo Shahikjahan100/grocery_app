@@ -1,16 +1,5 @@
-# grocery_app
+# GROCERY-APP
+![Untitled design](https://github.com/Shahikjahan100/grocery_app/assets/139509529/7b393beb-2703-4d8b-aaa6-4b8df319fd80)
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
